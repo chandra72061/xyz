@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jjjjwelcome
+=======
+welcome
+>>>>>>> 78ec427c755eb989c2eca6cad85483c2b4ee4ef3
